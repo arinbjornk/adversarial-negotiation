@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "contract_id": "baseline_v1",
+    "created_timestamp": "2025-01-01T00:00:00",
+    "parties": {
+      "buyer": "West Manufacturing Inc.",
+      "seller": "Square Machines Inc."
+    },
+    "subject": "Sale of 100 industrial machines"
+  },
+  "articles": {
+    "price_terms": {
+      "content": "The buyer shall pay to the seller the sum of Five Hundred Dollars ($500) per unit for a total of One Hundred (100) machines, amounting to Fifty Thousand Dollars ($50,000) in total purchase price.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "delivery_terms": {
+      "content": "The seller shall deliver all 100 machines to the buyer's facility located at 123 Industrial Park, Manufacturing City, State 12345, within sixty (60) days of contract execution. Delivery shall be FOB destination.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "payment_terms": {
+      "content": "Payment shall be made in full within thirty (30) days following delivery and acceptance of the machines. Payment shall be made by wire transfer or certified check to an account designated by the seller.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "warranty_terms": {
+      "content": "The seller warrants that all machines shall be free from defects in materials and workmanship for a period of twelve (12) months from the date of delivery. The seller's sole obligation under this warranty shall be to repair or replace defective machines at seller's option.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "termination_clauses": {
+      "content": "Either party may terminate this contract upon thirty (30) days written notice if the other party materially breaches any provision of this contract and fails to cure such breach within fifteen (15) days of receiving written notice thereof.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "dispute_resolution": {
+      "content": "Any disputes arising out of or relating to this contract shall be resolved through binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The arbitration shall be conducted in Manufacturing City, State.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    },
+    "governing_law": {
+      "content": "This contract shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles.",
+      "last_modified_by": "system",
+      "modification_timestamp": "2025-01-01T00:00:00"
+    }
+  }
+}
